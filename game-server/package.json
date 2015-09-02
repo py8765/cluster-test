@@ -1,0 +1,9 @@
+{
+    "name":"cluster-test",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pomelo-cluster":"0.0.1"
+    }
+}
+
